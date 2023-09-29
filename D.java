@@ -39,4 +39,9 @@ public class D {
     public void MD3() {
         System.out.println("Método MD3 da classe D");
     }
+    
+    // Método MD4
+    public void MD4() {
+        System.out.println("Método MD4 da classe D");
+    }
 }
